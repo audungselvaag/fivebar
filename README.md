@@ -22,7 +22,7 @@ Every day your team gets a new question, from "Would you rather…" to the truly
 2. Open the downloaded file. If Android asks, allow installing apps from your browser.
 3. Open Fivebar, sign in or create an account, and allow notifications to get the daily question.
 
-Join a team with the invite link someone sends you: paste it under **Join a team** in the app, or open it in the browser.
+Join a team by tapping the invite link someone sends you: with the app installed (version 1.1.0 or newer) it opens straight in Fivebar, otherwise in the browser. You can also paste it under **Join a team** in the app.
 
 ## What you can do
 
@@ -37,7 +37,7 @@ Join a team with the invite link someone sends you: paste it under **Join a team
 - [Privacy policy](https://fivebar.selvaag.org/privacy)
 - [Support](https://fivebar.selvaag.org/support) · [support@selvaag.org](mailto:support@selvaag.org)
 
-You can delete your account at any time in the app: **Settings → Delete account**.
+You can delete your account at any time: in the app under **Settings → Delete account**, or on the website under the gear at the top → **Delete account**.
 
 ---
 
@@ -47,11 +47,15 @@ You can delete your account at any time in the app: **Settings → Delete accoun
 
 Hver dag får teamet et nytt spørsmål, fra «Vil du heller…» til det helt absurde. Alle stemmer, resultatet vises som håndtegnede streker, og du får varsel når neste spørsmål kommer.
 
-**Installere på Android:**
+### Android-installasjon
 
 1. Åpne [siste versjon](../../releases/latest) på Android-telefonen og last ned **`fivebar.apk`**.
 2. Åpne filen. Hvis Android spør, tillat installasjon fra nettleseren.
 3. Åpne Fivebar, logg inn eller opprett konto, og tillat varsler for å få dagens spørsmål.
+
+Bli med i et team ved å trykke på invitasjonslenken du har fått: har du appen (versjon 1.1.0 eller nyere), åpnes den rett i Fivebar, ellers i nettleseren. Du kan også lime den inn under **Bli med i et team** i appen.
+
+Kontoen kan slettes når som helst: i appen under **Innstillinger → Slett konto**, eller på nettsiden under tannhjulet øverst → **Slett konto**.
 
 Nettsiden finner du på [fivebar.selvaag.org](https://fivebar.selvaag.org), med samme konto som i appen. Les mer om [personvern](https://fivebar.selvaag.org/privacy), eller få [hjelp](https://fivebar.selvaag.org/support).
 
